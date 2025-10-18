@@ -1,0 +1,89 @@
+✅ 1. Incidentes por tipo (TIPO_INCIDENTE)
+
+Visualización: Gráfico de barras o de columnas.
+
+Objetivo: Ver los tipos de incidentes más frecuentes.
+
+Segmentaciones útiles: Por localidad, género o red.
+
+✅ 2. Clasificación final por tipo de incidente
+
+Visualización: Matriz o gráfico de columnas apiladas.
+
+Eje X: Tipo de incidente
+
+Leyenda: Clasificación final (Ej. Trasladado, Fallecido, etc.)
+
+Objetivo: Ver el resultado más común de cada tipo de incidente.
+
+✅ 3. Evolución temporal de incidentes
+
+Visualización: Gráfico de líneas o columnas.
+
+Eje X: Fecha (mensual o semanal)
+
+Eje Y: Número de incidentes
+
+Segmentación: Por tipo de incidente, localidad, o prioridad.
+
+Objetivo: Identificar picos o tendencias estacionales.
+
+✅ 4. Mapa de calor o geográfico por localidad
+
+Visualización: Mapa o gráfico de calor.
+
+Objetivo: Ver en qué localidades ocurren más incidentes.
+
+Opcional: Filtrar por tipo de incidente o clasificación final.
+
+✅ 5. Distribución de edad por tipo de incidente
+
+Visualización: Boxplot o histograma.
+
+Eje X: Tipo de incidente
+
+Eje Y: Edad
+
+Objetivo: Ver qué tipos de incidentes afectan más a ciertos rangos de edad.
+
+✅ 6. Incidentes por género
+
+Visualización: Gráfico de pastel o barras.
+
+Objetivo: Ver distribución por género.
+
+Segmentación adicional: Por tipo de incidente o clasificación final.
+
+✅ 7. Prioridad vs Clasificación final
+
+Visualización: Matriz, gráfico de columnas apiladas o gráfico de dispersión.
+
+Objetivo: Evaluar cómo la prioridad asignada se relaciona con el desenlace del incidente.
+
+✅ 8. KPI Cards (Indicadores)
+
+Puedes agregar tarjetas con indicadores clave, como:
+
+Total de incidentes
+
+Porcentaje de fallecidos
+
+Porcentaje de traslados
+
+Tiempo promedio desde inicio hasta clasificación (si tuvieras esa variable)
+
+✅ 9. Segmentaciones (Slicers)
+
+Agrega controles para filtrar por:
+
+Año / mes
+
+Tipo de incidente
+
+Clasificación final
+
+Localidad
+
+Prioridad
+
+Género
